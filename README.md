@@ -187,7 +187,7 @@
 
          [70],[71] Importing packages and plotting the hashtags
 
-   ##  `Issues`
+   ## 5. `Issues`
           ERROR OCCURED: Py4JJavaError: An error occurred while calling o23.sql.
           : org.apache.spark.sql.AnalysisException: Table or view not found: tweets_stream; line 1 pos 23;
           'Project ['tag, 'count]
