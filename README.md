@@ -32,7 +32,7 @@
      TOPIC MODEL ANALYSIS
      TWEETS STREAMING USING APACHE SPARK
 
-   ## 4. `PREREQUISITES`
+   ## 3. `PREREQUISITES`
 
      Run "Anaconda" as `Administrator` and install the below packages
      pip install tweepy
@@ -46,7 +46,7 @@
      pip install gensim
      pip install textblob
       
-   ## 5. `SOURCE CODE`
+   ## 4. `SOURCE CODE`
         [1] Importing required packages and libraries
         
         [2],[3] Starting the spark session and reading the CSV file 
